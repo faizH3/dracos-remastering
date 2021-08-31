@@ -22,3 +22,14 @@ mount -t proc none /proc && mount -t sysfs none /sys && mount -t devpts none /de
 ```
 export HOME=/root && export LC_ALL=C
 ```
+7.Perintah di bawah ini digunakan untuk awal dari pertama kali membuat distro remastering
+Jika ingin Mengulang lagi Remastering sebelumnya dilewati 2 perintah dibawah ini
+```
+cd /etc/skel
+mkdir Desktop Documents Downloads Music Pictures Public Templates Videos
+```
+8.Ok anda sudah dalam mode chroot dari edit. Silahkan edit mau ditambahkan paket atau
+mengurangi paket dan lainnya.
+```
+cd /
+```
