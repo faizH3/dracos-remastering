@@ -1,4 +1,16 @@
-1. Membuat debian live
+## Install Tools
+Periapan Awal adalah memasang perangkat lunak yang nantinya digunakan sebagai perkakas dalam pembuat distro remastering.  
+
+```
+sudo apt-get install squashfs-tools genisoimage isolinux syslinux resolvconf syslinux-utils -y
+```
+## Membuat Kerangka kerja menggunak debian live Project
+
+membuat direktori 
+```
+mkdir distro
+```
+1.debian live
 ```bash
   lb config -b iso --cache true --apt-recommends false -a amd64 --binary-images iso --debian live --linux-flavours 486 --mode debian --debian-installer true --archive-areas "main contrib non-free" --security false --win32-loader false --interactive shell --updates false
 ```
