@@ -96,7 +96,7 @@ cd $HOME/distro/
 sudo chmod +w ./binary/live/filesystem.manifest
 sudo su
 sudo chroot ./chroot dpkg-query -W --showformat='${Package} ${Version}\n' > ./binary/live/filesystem.manifest
-printf $(sudo du -sx --block-size=1 edit | cut -f1) > ./binary/live/filesystem.size
+printf $(sudo du -sx --block-size=1 chroot | cut -f1) > ./binary/live/filesystem.size
 exit
 sudo cp ./binary/live/filesystem.manifest ./binary/live/filesystem.manifest-desktop
 ```
