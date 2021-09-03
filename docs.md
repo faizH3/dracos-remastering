@@ -80,3 +80,63 @@ exit
 ```
 sudo umount ./edit/dev/
 ```
+## Membuat image ISO Remaster
+
+1. Menghapus filesistem.squashfs jika sebelumnya membuat filesistem.squashfs
+Jika Pertama kali membuat iso lewatkan perintah dibawah ini
+PENTING UNTUK DIPERHATIKAN JIKA MAU BIKIN LAGI filesystem.squashfs
+FILE YANG LAMA WAJIB HAPUS JIKA TIDAK AKAN MENGALAMI ERROR
+
+```
+sudo rm $HOME/distro/binary/live/filesystem.squashfs
+```
+2. Membuat Folder Kerangka dvd (live).
+```
+cd $HOME/distro/
+sudo chmod +w ./binary/live/filesystem.manifest
+sudo su
+sudo chroot ./chroot dpkg-query -W --showformat='${Package} ${Version}\n' > ./binary/live/filesystem.manifest
+printf $(sudo du -sx --block-size=1 edit | cut -f1) > ./binary/live/filesystem.size
+exit
+sudo cp ./binary/live/filesystem.manifest ./binary/live/filesystem.manifest-desktop
+```
+3. Membuat filesystem.squashfs dari Hasil Proyek Remastering STANDAR COMPRESS
+```
+cd $HOME/distro/
+sudo mksquashfs ./chroot ./binary/live/filesystem.squashfs
+```
+4.Menghapus md5sum.txt and calculate baru md5sums (Silahkan Hapus file md5sum.txt atau MD5SUMS).
+```
+cd $HOME/distro/binary/
+sudo rm MD5SUMS
+sudo rm md5sums.txt
+```
+5. Membuat generate MD5SUMS baru.
+```
+cd $HOME/distro/binary/
+find -type f -print0 | sudo xargs -0 md5sum | grep -v isolinux/boot.cat | sudo tee MD5SUMS
+```
+6. Membuat File image ISO Standar Kurang Dari 4GB**
+
+```
+cd $HOME/distro/
+sudo mkisofs -r -V "DracOS-3.1.0-amd64" -cache-inodes -J -l -b isolinux/isolinux.bin -c isolinux/boot.cat -no-emul-boot -boot-load-size 4 -boot-info-table -o ../DracOS-3.1.0-amd64.iso binary
+cd $HOME/ && sudo chmod 777 DracOS-3.1.0-amd64.iso
+```
+7. Membuat ISO Hybrid.
+
+```
+cd $HOME/
+isohybrid DracOS-3.1.0-amd64.iso
+```
+
+8. Membuat Checksum File ISO MD5sum.
+```
+cd $HOME/
+md5sum DracOS-3.1.0-amd64.iso > DracOS-3.1.0-amd64.iso.md5sum
+```
+9. Membuat Checksum File ISO SHA1sum.
+```
+sha1sum DracOS-3.1.0-amd64.iso > DracOS-3.1.0-amd64.iso.sha1sum
+```
+10. sha2sum DracOS-3.1.0-amd64.iso > DracOS-3.1.0-amd64.iso.sha2sum
