@@ -1,13 +1,12 @@
-# What is Dracos Linux ? 
+# What is Dracos Linux Remastering ? 
 
-Dracos Linux ( www.dracos-linux.org ) is the Linux operating system from Indonesian , open source is built based on the Linux From Scratch under the protection of the GNU General Public License v3.0. This operating system is one variant of Linux distributions, which is used to perform security testing (penetration testing). 
+Dracos Linux Remaster ( www.dracos-linux.org ) is the Linux operating system from Indonesian , open source is built based on Debian live project under the protection of the GNU General Public License v3.0. This operating system is one variant of Linux distributions, which is used to perform security testing (penetration testing). 
 Dracos linux in Arm by hundreds hydraulic pentest, forensics and reverse engineering. Does not use a GUI-based tools-tools and just have the software using the CLI (command line interface) to perform its operations.
-Now Dracos currently already up to version 2.0 with the code name "Leak". 
+Now Dracos currently already up to version 3.1.0 with the code name "Remaster". 
 
 # Screenshot
-<img src="https://cloud.githubusercontent.com/assets/17976841/19415608/36993ec2-939f-11e6-8236-a98c669bd939.jpg" width="120%"></img> 
+<img src="https://github.com/ekovegeance/dracos-remastering/blob/main/Artwork/problem/where_problem/2%20get%20icon%20red.png?raw=true" width="120%"></img> 
 
-<img src="https://cloud.githubusercontent.com/assets/17976841/19415673/9a3017ec-93a1-11e6-9146-c94b5373fa26.jpg" width="120%"></img> 
 
 
 ### Teaser 
@@ -32,7 +31,7 @@ None of every singel tool that was installed inside the OS uses GUI. CLI will al
 
 
 # Penetration Tools List 
-- Link : http://dev.dracos-linux.org/projects/dracoslinux/wiki/Penetration_Testing 
+- Link : https://github.com/dracos-linux/venomizer 
 - Information Gathering
 - Vulnerability Assessment
 - Web Attack
@@ -51,4 +50,4 @@ None of every singel tool that was installed inside the OS uses GUI. CLI will al
 
 # Link 
 
-- Link : http://dev.dracos-linux.org/projects/dracoslinux/wiki/DOWNLOAD_DRACOS
+- Link : https://github.com/dracos-linux
