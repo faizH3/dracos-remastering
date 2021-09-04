@@ -5,7 +5,7 @@ Dracos linux in Arm by hundreds hydraulic pentest, forensics and reverse enginee
 Now Dracos currently already up to version 2.0 with the code name "Leak". 
 
 # Screenshot
-<img src="https://cloud.githubusercontent.com/assets/17976841/19415608/36993ec2-939f-11e6-8236-a98c669bd939.jpg" width="120%"></img> 
+<img src="https://github.com/ekovegeance/dracos-remastering/blob/main/Artwork/problem/where_problem/2%20get%20icon%20red.png?raw=true" width="120%"></img> 
 
 <img src="https://cloud.githubusercontent.com/assets/17976841/19415673/9a3017ec-93a1-11e6-9146-c94b5373fa26.jpg" width="120%"></img> 
 
