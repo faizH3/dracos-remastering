@@ -1,0 +1,99 @@
+#!/bin/bash
+#
+# blddracos -- Revision: 102r2 -- by eznix (https://sourceforge.net/projects/eznixos/)
+# (GNU/General Public License version 3.0)
+#
+# Step by Step Live-Build
+#
+#
+# ~/distro -- build folder
+# ~/dracos  -- files location
+#
+#
+# Phase 1: - Assign WKDIR variable the output of pwd
+#
+WKDIR="$(pwd)"
+#
+#
+# Phase 2: - Create the build staging folder
+#
+mkdir distro
+#
+cd distro
+#
+#
+# Phase 3: - Set up build environment
+#
+lb config --binary-images iso-hybrid --mode debian --architectures amd64 --interactive shell --linux-flavours amd64 --distribution buster --archive-areas "main contrib non-free" --updates true --security true --cache true --apt-recommends true --debian-installer live --debian-installer-gui false --win32-loader false --iso-application distro --iso-volume distro
+#
+#
+# Phase 4: - Install desktop and applications
+#
+echo task-xfce-desktop > $WKDIR/distro/config/package-lists/desktop.list.chroot
+#
+#
+echo aqemu haveged chromium less orage materia-gtk-theme slick-greeter gdebi galculator grsync psensor synaptic gparted bleachbit flac faad faac mjpegtools x265 x264 mpg321 ffmpeg streamripper sox mencoder dvdauthor twolame lame asunder aisleriot gnome-mahjongg gnome-chess dosbox filezilla libxvidcore4 vlc pitivi soundconverter hplip-gui cdrdao frei0r-plugins htop jfsutils xfsprogs ntfs-3g cdtool mtools gthumb gimp testdisk numix-gtk-theme greybird-gtk-theme breeze-icon-theme breeze-gtk-theme xorriso cdrskin p7zip-full p7zip-rar keepassx hardinfo inxi gnome-disk-utility simplescreenrecorder thunderbird chromium simple-scan remmina arc-theme gstreamer1.0-plugins-bad gstreamer1.0-plugins-ugly gstreamer1.0-plugins-good gnome-system-tools dos2unix dialog papirus-icon-theme faenza-icon-theme liferea transmission-gtk handbrake handbrake-cli audacity python-glade2 rar unrar ssh cifs-utils fuse gvfs-fuse gvfs-backends gvfs-bin pciutils squashfs-tools syslinux syslinux-common dosfstools isolinux live-build fakeroot linux-headers-amd64 lsb-release menu build-essential dkms curl wget iftop apt-transport-https dirmngr nvidia-detect openvpn network-manager-openvpn plank openvpn-systemd-resolved libqt5opengl5 zulumount-gui zulucrypt-gui zulupolkit neofetch firmware-linux xscreensaver ufw gufw > $WKDIR/distro/config/package-lists/packages.list.chroot
+#
+# Uncomment below line for calamares installer
+# echo calamares calamares-settings-debian > $WKDIR/distro/config/package-lists/calamares.list.chroot
+#
+#
+# Phase 5: - Make folders in the chroot
+#
+mkdir -p $WKDIR/distro/config/includes.chroot/usr/share/distro
+mkdir -p $WKDIR/distro/config/includes.chroot/etc/skel/.config
+mkdir -p $WKDIR/distro/config/includes.chroot/boot/grub
+mkdir -p $WKDIR/distro/config/includes.chroot/etc/lightdm
+mkdir -p $WKDIR/distro/config/includes.chroot/etc/default
+mkdir -p $WKDIR/distro/config/includes.chroot/usr/local/bin
+mkdir -p $WKDIR/distro/config/includes.chroot/usr/share/applications
+mkdir -p $WKDIR/distro/config/includes.chroot/usr/share/backgrounds
+mkdir -p $WKDIR/distro/config/hooks/normal
+mkdir -p $WKDIR/distro/config/includes.chroot/usr/share/doc/distro
+#
+# Uncomment below line for calamares installer
+# mkdir -p $WKDIR/distro/config/includes.chroot/etc/calamares/branding
+#
+#
+# Phase 6: - Copy files into the chroot
+#
+cp -r $WKDIR/dracos $WKDIR/distro/config/includes.chroot/usr/share/distro/dracos
+cp -r $WKDIR/dracos/bootloaders $WKDIR/distro/config/bootloaders
+cp -r $WKDIR/dracos/xfce4 $WKDIR/distro/config/includes.chroot/etc/skel/.config/xfce4
+cp -r $WKDIR/dracos/dconf $WKDIR/distro/config/includes.chroot/etc/skel/.config/dconf
+cp -r $WKDIR/dracos/autostart $WKDIR/distro/config/includes.chroot/etc/skel/.config/autostart
+cp $WKDIR/dracos/hooks/* $WKDIR/distro/config/hooks/normal/
+cp $WKDIR/dracos/lightdm/* $WKDIR/distro/config/includes.chroot/etc/lightdm/
+cp $WKDIR/dracos/defaultgrub/grub $WKDIR/distro/config/includes.chroot/etc/default/
+cp $WKDIR/dracos/defaultgrub/grubbackground.tga $WKDIR/distro/config/includes.chroot/boot/grub/
+cp $WKDIR/dracos/scripts/* $WKDIR/distro/config/includes.chroot/usr/local/bin/
+cp $WKDIR/dracos/backgrounds/* $WKDIR/distro/config/includes.chroot/usr/share/backgrounds/
+cp $WKDIR/dracos/launchers/ezadmin.desktop $WKDIR/distro/config/includes.chroot/usr/share/applications/
+#
+# Uncomment below three lines for calamares installer
+# cp $WKDIR/dracos/calamares/settings.conf $WKDIR/distro/config/includes.chroot/etc/calamares/settings.conf
+# cp $WKDIR/dracos/cadoes xfce use lightdmlamares/usr/share/applications/install-debian.desktop $WKDIR/distro/config/includes.chroot/usr/share/applications/install-debian.desktop
+# cp -r $WKDIR/dracos/calamares/branding/eznixos $WKDIR/distro/config/includes.chroot/etc/calamares/branding/eznixos
+#
+#
+# Uncomment below line IF you wish to include deb packages from misc64 folder
+# cp $WKDIR/dracos/misc64/* $WKDIR/distro/config/packages.chroot/
+#
+#
+# Phase 7: - Start the build process
+#
+lb build
+#
+# Disclaimer:
+#
+# THIS SOFTWARE IS PROVIDED BY EZNIX “AS IS” AND ANY EXPRESS OR IMPLIED
+# WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
+# MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO
+# EVENT SHALL EZNIX BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL,
+# EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO,
+# PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR
+# BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER
+# IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
+# ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
+# POSSIBILITY OF SUCH DAMAGE.
+#

@@ -28,7 +28,7 @@ LB_LINUX_PACKAGES="linux-image"
 LB_SECURITY="false"
 
 # Enable updates updates
-LB_UPDATES="false"
+LB_UPDATES="true"
 
 # Enable backports updates
 LB_BACKPORTS="false"
