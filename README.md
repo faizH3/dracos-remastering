@@ -31,7 +31,7 @@ None of every singel tool that was installed inside the OS uses GUI. CLI will al
 
 
 # Penetration Tools List 
-- Link : https://github.com/dracos-linux/venomizer 
+- Link : https://github.com/dracos-linux/DracOS_VENOMIZER 
 - Information Gathering
 - Vulnerability Assessment
 - Web Attack
