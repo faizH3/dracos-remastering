@@ -1,8 +1,8 @@
-# What is Dracos Linux ? 
+# What is Dracos Linux Remastering ? 
 
 Dracos Linux ( www.dracos-linux.org ) is the Linux operating system from Indonesian , open source is built based on the Linux From Scratch under the protection of the GNU General Public License v3.0. This operating system is one variant of Linux distributions, which is used to perform security testing (penetration testing). 
 Dracos linux in Arm by hundreds hydraulic pentest, forensics and reverse engineering. Does not use a GUI-based tools-tools and just have the software using the CLI (command line interface) to perform its operations.
-Now Dracos currently already up to version 2.0 with the code name "Leak". 
+Now Dracos currently already up to version 3.1.0 with the code name "Remaster". 
 
 # Screenshot
 <img src="https://github.com/ekovegeance/dracos-remastering/blob/main/Artwork/problem/where_problem/2%20get%20icon%20red.png?raw=true" width="120%"></img> 
