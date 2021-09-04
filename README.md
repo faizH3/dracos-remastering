@@ -50,4 +50,4 @@ None of every singel tool that was installed inside the OS uses GUI. CLI will al
 
 # Link 
 
-- Link : http://dev.dracos-linux.org/projects/dracoslinux/wiki/DOWNLOAD_DRACOS
+- Link : https://github.com/dracos-linux
