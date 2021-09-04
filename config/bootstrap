@@ -4,31 +4,31 @@
 LB_ARCHITECTURE="amd64"
 
 # Select distribution to use
-LB_DISTRIBUTION="bullseye"
+LB_DISTRIBUTION="buster"
 
 # Select parent distribution to use
 LB_PARENT_DISTRIBUTION=""
 
 # Select distribution to use in the chroot
-LB_DISTRIBUTION_CHROOT="bullseye"
+LB_DISTRIBUTION_CHROOT="buster"
 
 # Select parent distribution to use in the chroot
-LB_PARENT_DISTRIBUTION_CHROOT="bullseye"
+LB_PARENT_DISTRIBUTION_CHROOT="buster"
 
 # Select distribution to use in the final image
-LB_DISTRIBUTION_BINARY="bullseye"
+LB_DISTRIBUTION_BINARY="buster"
 
 # Select parent distribution to use in the final image
-LB_PARENT_DISTRIBUTION_BINARY="bullseye"
+LB_PARENT_DISTRIBUTION_BINARY="buster"
 
 # Select parent distribution for debian-installer to use
-LB_PARENT_DEBIAN_INSTALLER_DISTRIBUTION="bullseye"
+LB_PARENT_DEBIAN_INSTALLER_DISTRIBUTION="buster"
 
 # Select archive areas to use
-LB_ARCHIVE_AREAS="main"
+LB_ARCHIVE_AREAS="main contrib non-free"
 
 # Select parent archive areas to use
-LB_PARENT_ARCHIVE_AREAS="main"
+LB_PARENT_ARCHIVE_AREAS="main contrib non-free"
 
 # Set parent mirror to bootstrap from
 LB_PARENT_MIRROR_BOOTSTRAP="http://deb.debian.org/debian/"

@@ -1,0 +1,1 @@
+slick-greeter syslinux syslinux-common isolinux live-build linux-headers-amd64 lsb-release menu build-essential curl wget iftop apt-transport-https dirmngr nvidia-detect openvpn network-manager-openvpn plank openvpn-systemd-resolved libqt5opengl5 neofetch firmware-linux xscreensaver
