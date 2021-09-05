@@ -93,7 +93,7 @@ exit
 ```
 6. Memutuskan titik kait dari edit/dev/ (umount)
 ```
-sudo umount ./edit/dev/
+sudo umount ./chroot/dev/
 ```
 ## Membuat image ISO Remaster
 
