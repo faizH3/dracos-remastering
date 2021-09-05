@@ -11,7 +11,7 @@ sudo apt-get install squashfs-tools genisoimage isolinux syslinux resolvconf sys
 
 membuat direktori 
 ```
-mkdir distro
+mkdir distro && cd distro
 ```
 1.debian live
 ```bash
