@@ -1,5 +1,8 @@
 ## Install Tools
 Periapan Awal adalah memasang perangkat lunak yang nantinya digunakan sebagai perkakas dalam pembuat distro remastering.  
+```
+sudo apt install live-build
+```
 
 ```
 sudo apt-get install squashfs-tools genisoimage isolinux syslinux resolvconf syslinux-utils -y
