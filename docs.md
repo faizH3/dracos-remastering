@@ -15,7 +15,7 @@ mkdir distro && cd distro
 ```
 1.debian live
 ```bash
-  lb config -b iso --cache true --apt-recommends false -a amd64 --binary-images iso --debian live --linux-flavours 486 --mode debian --debian-installer true --archive-areas "main contrib non-free" --security false --win32-loader false --interactive shell --updates false
+  lb config -b iso --security false --updates true -a amd64 --binary-images iso --distribution buster --archive-areas "main contrib non-free" -- debian-installer live --cache-packages true --apt-recommends true --debian-installer-gui false --win32-loader false --iso-application distro --iso-volume distro
 ```
 2. Mengcopikan file resolv.conf dari host ke directoy "chroot"
 ```bash
