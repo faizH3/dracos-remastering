@@ -1,20 +1,34 @@
+======================================================================
 ## Install Tools
 Periapan Awal adalah memasang perangkat lunak yang nantinya digunakan sebagai perkakas dalam pembuat distro remastering.  
+```
+sudo apt install live-build
+```
 
 ```
 sudo apt-get install squashfs-tools genisoimage isolinux syslinux resolvconf syslinux-utils -y
 ```
+======================================================================
+
+======================================================================
 ## Membuat Kerangka kerja menggunak debian live Project
 
 membuat direktori 
 ```
-mkdir distro
+mkdir distro && cd distro
 ```
 1.debian live
 ```bash
-  lb config -b iso --cache true --apt-recommends false -a amd64 --binary-images iso --debian live --linux-flavours 486 --mode debian --debian-installer true --archive-areas "main contrib non-free" --security false --win32-loader false --interactive shell --updates false
+  lb config -b iso --security false --updates true -a amd64 --binary-images iso --distribution buster --archive-areas "main contrib non-free" -- debian-installer live --cache-packages true --apt-recommends true --debian-installer-gui false --win32-loader false --iso-application distro --iso-volume distro
 ```
-2. Mengcopikan file resolv.conf dari host ke directoy "chroot"
+2. Membuat iso pertama kali
+```
+sudo lb build
+```
+======================================================================
+
+## Masuk ke chroot
+4. Mengcopikan file resolv.conf dari host ke directoy "chroot"
 ```bash
   sudo cp /etc/resolv.conf ./chroot/etc/
 ```
@@ -45,6 +59,7 @@ mkdir Desktop Documents Downloads Music Pictures Public Templates Videos
 ```
 cd /
 ```
+======================================================================
 
 ## Keluar dari mode chroot
 
@@ -78,7 +93,7 @@ exit
 ```
 6. Memutuskan titik kait dari edit/dev/ (umount)
 ```
-sudo umount ./edit/dev/
+sudo umount ./chroot/dev/
 ```
 ## Membuat image ISO Remaster
 
