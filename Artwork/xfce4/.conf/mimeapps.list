@@ -1,0 +1,8 @@
+[Added Associations]
+image/png=ristretto.desktop;
+application/x-shellscript=mousepad.desktop;
+application/x-theme=panel-desktop-handler.desktop;
+application/x-desktop=mousepad.desktop;panel-desktop-handler.desktop;
+application/xml=firefox-esr.desktop;
+text/plain=mousepad.desktop;
+application/octet-stream=mousepad.desktop;
