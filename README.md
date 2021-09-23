@@ -6,7 +6,7 @@ Now Dracos currently already up to version 3.1.0 with the code name "Remaster".
 
 # Screenshot
 <img src="https://raw.githubusercontent.com/ekovegeance/dracos-remastering/main/Artwork/problem/where_problem/ss.png" width="120%"></img> 
-
+|![](https://github.com/dracos-linux/DracOS_VENOMIZER/blob/main/img/vnm.png) |
 
 
 ### Teaser 
