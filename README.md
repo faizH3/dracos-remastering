@@ -13,7 +13,11 @@ Now Dracos currently already up to version 3.1.0 with the code name "Remaster".
 
 
 ### Teaser 
-Link : https://youtu.be/3x7Mbk7K64g
+
+
+
+Link : https://www.youtube.com/watch?v=3x7Mbk7K64g&t=2s 
+
 
 # As the target of development
 
