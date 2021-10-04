@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///usr/share/icons/logo2.png" added="2021-09-18T10:34:47Z" modified="2021-09-18T10:46:07Z" visited="2021-09-18T10:34:47Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="alacarte" exec="&apos;alacarte %u&apos;" modified="2021-09-18T10:46:07Z" count="15"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/.config/menus/xfce-applications.menu" added="2021-09-18T10:35:37Z" modified="2021-09-18T10:35:37Z" visited="2021-09-18T10:35:38Z">
+    <desc>Charset: UTF-8</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2021-09-18T10:35:37Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/.local/share/desktop-directories/alacarte-made.directory" added="2021-09-18T10:36:13Z" modified="2021-09-20T06:11:16.336775Z" visited="2021-09-18T10:36:13Z">
+    <desc>Charset: UTF-8</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2021-09-20T06:11:16.336773Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/icons/menu/information-gathering-4.png" added="2021-09-18T10:37:29Z" modified="2021-09-18T10:37:29Z" visited="2021-09-18T10:37:29Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="alacarte" exec="&apos;alacarte %u&apos;" modified="2021-09-18T10:37:29Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/icons/menu/vulnerability-assessment.png" added="2021-09-18T10:37:48Z" modified="2021-09-18T10:37:48Z" visited="2021-09-18T10:37:48Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="alacarte" exec="&apos;alacarte %u&apos;" modified="2021-09-18T10:37:48Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/icons/menu/wireless-icon.png" added="2021-09-18T10:38:06Z" modified="2021-09-18T10:38:06Z" visited="2021-09-18T10:38:06Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="alacarte" exec="&apos;alacarte %u&apos;" modified="2021-09-18T10:38:06Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/icons/menu/webapp-analysis-4.png" added="2021-09-18T10:38:22Z" modified="2021-09-18T10:38:22Z" visited="2021-09-18T10:38:23Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="alacarte" exec="&apos;alacarte %u&apos;" modified="2021-09-18T10:38:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/icons/menu/exploit-tools.png" added="2021-09-18T10:38:38Z" modified="2021-09-18T10:38:38Z" visited="2021-09-18T10:38:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="alacarte" exec="&apos;alacarte %u&apos;" modified="2021-09-18T10:38:38Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/icons/menu/stress-test-icon.png" added="2021-09-18T10:38:56Z" modified="2021-09-18T10:38:56Z" visited="2021-09-18T10:38:56Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="alacarte" exec="&apos;alacarte %u&apos;" modified="2021-09-18T10:38:56Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/icons/menu/forensic-dna.png" added="2021-09-18T10:39:09Z" modified="2021-09-18T10:39:09Z" visited="2021-09-18T10:39:09Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="alacarte" exec="&apos;alacarte %u&apos;" modified="2021-09-18T10:39:09Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/icons/menu/sniffing-wiretap.png" added="2021-09-18T10:39:26Z" modified="2021-09-18T10:39:26Z" visited="2021-09-18T10:39:27Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="alacarte" exec="&apos;alacarte %u&apos;" modified="2021-09-18T10:39:26Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/icons/menu/password-attack.png" added="2021-09-18T10:39:50Z" modified="2021-09-18T10:39:50Z" visited="2021-09-18T10:39:50Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="alacarte" exec="&apos;alacarte %u&apos;" modified="2021-09-18T10:39:50Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/icons/menu/maintaining-access-backdoor.png" added="2021-09-18T10:40:08Z" modified="2021-09-18T10:40:08Z" visited="2021-09-18T10:40:08Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="alacarte" exec="&apos;alacarte %u&apos;" modified="2021-09-18T10:40:08Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/icons/menu/reverse-engineering.png" added="2021-09-18T10:40:22Z" modified="2021-09-18T10:40:22Z" visited="2021-09-18T10:40:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="alacarte" exec="&apos;alacarte %u&apos;" modified="2021-09-18T10:40:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/icons/menu/reporting-tool-icon.png" added="2021-09-18T10:40:36Z" modified="2021-09-18T10:40:36Z" visited="2021-09-18T10:40:36Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="alacarte" exec="&apos;alacarte %u&apos;" modified="2021-09-18T10:40:36Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/icons/menu/privilege-escalation-key.png" added="2021-09-18T10:40:55Z" modified="2021-09-18T10:40:55Z" visited="2021-09-18T10:40:55Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="alacarte" exec="&apos;alacarte %u&apos;" modified="2021-09-18T10:40:55Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/bin/vnm" added="2021-09-18T10:41:26Z" modified="2021-09-18T10:43:05Z" visited="2021-09-18T10:41:27Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="alacarte" exec="&apos;alacarte %u&apos;" modified="2021-09-18T10:43:05Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/.local/share/desktop-directories/alacarte-made-1.directory" added="2021-09-20T06:10:52.320634Z" modified="2021-09-20T06:10:52.320639Z" visited="2021-09-20T06:10:52.320634Z">
+    <desc>Charset: UTF-8</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2021-09-20T06:10:52.320637Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/.local/share/desktop-directories/alacarte-made-10.directory" added="2021-09-20T06:11:09.957308Z" modified="2021-09-20T06:11:09.957313Z" visited="2021-09-20T06:11:09.957308Z">
+    <desc>Charset: UTF-8</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2021-09-20T06:11:09.957311Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

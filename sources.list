@@ -1,10 +1,9 @@
 #Repository Mirror data utama Indonesia
 deb http://kartolo.sby.datautama.net.id/debian/ buster main contrib non-free
 deb http://kartolo.sby.datautama.net.id/debian/ buster-updates main contrib non-free
-deb http://kartolo.sby.datautama.net.id/debian-security/ buster/updates main contrib non-free
+deb http://kartolo.sby.datautama.net.id/debian-security/ buster/updates main contrib non-free 
 
-#Repository Mirror kali linux Indonesia 
+#Repository Mirror Parrotsec linux Indonesia 
 deb http://kartolo.sby.datautama.net.id/parrot/ parrot main contrib non-free
-
-#Repository Kali linux
+#Repository Kali Linux
 deb http://http.kali.org/kali kali-rolling main non-free contrib
