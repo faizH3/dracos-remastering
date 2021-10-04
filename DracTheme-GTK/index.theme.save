@@ -1,0 +1,13 @@
+esktop Entry]
+Type=X-GNOME-Metatheme
+Name=DracTheme
+Comment=DracTheme
+Encoding=UTF-8
+
+
+[X-GNOME-Metatheme]
+GtkTheme=Flat-Remix-GTK-Red-Darkest-Solid-NoBorder
+MetacityTheme=Flat-Remix-GTK-Red-Darkest-Solid-NoBorder
+IconTheme=Flat-Remix-Red-Dark
+CursorTheme=DMZ-Black
+ButtonLayout=menu:minimize,maximize,close

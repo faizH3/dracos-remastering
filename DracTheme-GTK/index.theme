@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=DracTheme
+Comment=DracTheme
+Encoding=UTF-8
+
+
+[X-GNOME-Metatheme]
+GtkTheme=DracTheme
+MetacityTheme=DracTheme
+IconTheme=DracTheme
+CursorTheme=DMZ-Black
+ButtonLayout=menu:minimize,maximize,close
