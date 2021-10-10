@@ -2,7 +2,7 @@
 
 <channel name="xsettings" version="1.0">
   <property name="Net" type="empty">
-    <property name="ThemeName" type="string" value="Flat-Remix-GTK-Red-Darkest-Solid-NoBorder"/>
+    <property name="ThemeName" type="string" value="DracTheme-GTK"/>
     <property name="IconThemeName" type="string" value="HighContrast"/>
     <property name="DoubleClickTime" type="empty"/>
     <property name="DoubleClickDistance" type="empty"/>
