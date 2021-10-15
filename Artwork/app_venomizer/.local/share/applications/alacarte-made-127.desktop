@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=reaver
+Exec=sudo /usr/bin/reaver
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/wireless-lan.png
+Type=Application

@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=sipvicious
+Exec=sudo /usr/bin/sipvicious
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/sniffing-wiretap.png
+Type=Application

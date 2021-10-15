@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=backdoor-factory
+Exec=sudo /usr/bin/backdoor-factory
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/exploit-tools.png
+Type=Application

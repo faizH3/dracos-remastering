@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=dnsrecon
+Exec=sudo /usr/bin/dnsrecon
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/information-gathering-4.png
+Type=Application

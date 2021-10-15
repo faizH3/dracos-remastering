@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=jd-gui
+Exec=sudo /usr/bin/jd-gui
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/reverse-engineering.png
+Type=Application

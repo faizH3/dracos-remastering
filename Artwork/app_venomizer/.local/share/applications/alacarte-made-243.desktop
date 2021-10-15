@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=inviteflood
+Exec=sudo /usr/bin/inviteflood
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/sniffing-wiretap.png
+Type=Application

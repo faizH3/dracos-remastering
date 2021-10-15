@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=guymager
+Exec=sudo /usr/bin/guymager
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/forensic-dna.png
+Type=Application

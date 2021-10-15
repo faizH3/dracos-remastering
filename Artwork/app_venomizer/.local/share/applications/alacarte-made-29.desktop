@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=faraday
+Exec=sudo /usr/bin/faraday
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/information-gathering-4.png
+Type=Application

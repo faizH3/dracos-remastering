@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=dnschef
+Exec=sudo /usr/bin/dnschef
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/sniffing-wiretap.png
+Type=Application

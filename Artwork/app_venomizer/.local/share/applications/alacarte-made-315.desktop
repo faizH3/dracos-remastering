@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=powersploit
+Exec=sudo /usr/bin/powersploit
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/maintaining-access-backdoor.png
+Type=Application

@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=iphone
+Exec=sudo /usr/bin/iphone
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/forensic-dna.png
+Type=Application

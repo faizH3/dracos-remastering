@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=linux-explot-suggester
+Exec=sudo /usr/bin/linux-exploit-suggester
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/exploit-tools.png
+Type=Application

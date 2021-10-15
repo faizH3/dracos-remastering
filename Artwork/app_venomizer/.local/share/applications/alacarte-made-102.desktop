@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=bully
+Exec=sudo /usr/bin/bully
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/wireless-lan.png
+Type=Application

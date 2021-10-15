@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=nipper-ng
+Exec=sudo /usr/bin/nipper-ng
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/reporting-tool-icon.png
+Type=Application

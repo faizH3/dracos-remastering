@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=casefile
+Exec=sudo /usr/bin/casefile
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/information-gathering-4.png
+Type=Application

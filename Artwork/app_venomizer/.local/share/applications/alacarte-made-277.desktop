@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=findmyhash
+Exec=sudo /usr/bin/findmyhash
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/password-attack.png
+Type=Application

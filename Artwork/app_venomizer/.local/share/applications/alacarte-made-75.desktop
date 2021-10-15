@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=sidguesser
+Exec=sudo /usr/bin/sidguesser
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/vulnerability-assessment.png
+Type=Application

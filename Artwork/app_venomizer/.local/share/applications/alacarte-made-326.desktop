@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=edb-debugger
+Exec=sudo /usr/bin/edb-debugger
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/reverse-engineering.png
+Type=Application

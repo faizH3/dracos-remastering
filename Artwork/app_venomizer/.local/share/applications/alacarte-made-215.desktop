@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=capstone
+Exec=sudo /usr/bin/capstone
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/forensic-dna.png
+Type=Application

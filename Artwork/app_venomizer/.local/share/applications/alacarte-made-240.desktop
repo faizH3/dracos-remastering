@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=hamster-sidejack
+Exec=sudo /usr/bin/hamster-sidejack
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/sniffing-wiretap.png
+Type=Application

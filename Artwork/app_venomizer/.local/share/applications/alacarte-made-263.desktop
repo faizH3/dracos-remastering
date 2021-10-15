@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=wifi-honey
+Exec=sudo /usr/bin/wifi-honey
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/sniffing-wiretap.png
+Type=Application

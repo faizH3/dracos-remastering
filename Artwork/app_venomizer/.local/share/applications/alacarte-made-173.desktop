@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=websploit
+Exec=sudo /usr/bin/websploit
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/webapp-analysis-4.png
+Type=Application

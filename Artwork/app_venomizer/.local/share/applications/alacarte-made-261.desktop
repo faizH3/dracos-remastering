@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=voiphopper
+Exec=sudo /usr/bin/voiphopper
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/sniffing-wiretap.png
+Type=Application

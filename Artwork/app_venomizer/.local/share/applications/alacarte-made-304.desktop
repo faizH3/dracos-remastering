@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=webscarab
+Exec=sudo /usr/bin/websscarab
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/password-attack.png
+Type=Application

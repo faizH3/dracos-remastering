@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=tkiptun-ng
+Exec=sudo /usr/bin/tkiptun-ng
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/wireless-lan.png
+Type=Application

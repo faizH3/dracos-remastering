@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=xplico
+Exec=sudo /usr/bin/xplico
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/forensic-dna.png
+Type=Application

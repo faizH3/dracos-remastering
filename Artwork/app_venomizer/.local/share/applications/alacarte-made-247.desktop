@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=protos-sip
+Exec=sudo /usr/bin/protos-sip
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/sniffing-wiretap.png
+Type=Application

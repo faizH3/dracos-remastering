@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=maskprocessor
+Exec=sudo /usr/bin/maskprocessor
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/password-attack.png
+Type=Application

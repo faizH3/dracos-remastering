@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=sipp
+Exec=sudo /usr/bin/sipp
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/sniffing-wiretap.png
+Type=Application

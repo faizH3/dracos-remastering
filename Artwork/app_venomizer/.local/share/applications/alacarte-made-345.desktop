@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=apktool
+Exec=sudo /usr/bin/apktool
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/reporting-tool-icon.png
+Type=Application

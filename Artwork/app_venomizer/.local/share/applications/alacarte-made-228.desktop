@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=p0f
+Exec=sudo /usr/bin/p0f
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/forensic-dna.png
+Type=Application

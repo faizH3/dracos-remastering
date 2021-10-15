@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=fierce
+Exec=sudo /usr/bin/fierce
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/information-gathering-4.png
+Type=Application

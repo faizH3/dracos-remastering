@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=bluemaho
+Exec=sudo /usr/bin/bluemaho
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/wireless-lan.png
+Type=Application

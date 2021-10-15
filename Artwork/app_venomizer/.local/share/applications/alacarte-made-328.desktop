@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=javasnoop
+Exec=sudo /usr/bin/javasnoop
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/reverse-engineering.png
+Type=Application

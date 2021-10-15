@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=rdpy
+Exec=sudo /usr/bin/rdpy
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/reporting-tool-icon.png
+Type=Application

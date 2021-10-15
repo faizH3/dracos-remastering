@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=hydra
+Exec=sudo /usr/bin/hydra
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/password-attack.png
+Type=Application

@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=sakis3g
+Exec=sudo /usr/bin/sakis3g
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/reporting-tool-icon.png
+Type=Application

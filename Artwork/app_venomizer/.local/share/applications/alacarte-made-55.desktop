@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=smtp-user-enum
+Exec=sudo /usr/bin/smtp-user-enum
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/information-gathering-4.png
+Type=Application
+Hidden=true

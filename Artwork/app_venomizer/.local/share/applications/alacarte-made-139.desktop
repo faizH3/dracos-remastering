@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=bbqsql
+Exec=sudo /usr/bin/bbqsql
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/webapp-analysis-4.png
+Type=Application

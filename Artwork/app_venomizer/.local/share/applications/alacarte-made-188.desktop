@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=exploit-db
+Exec=sudo /usr/bin/exploit-db
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/exploit-tools.png
+Type=Application

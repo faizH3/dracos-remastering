@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=amap
+Exec=sudo /usr/bin/amap
+Comment=
+Terminal=false
+Icon=/usr/share/icons/menu/information-gathering-4.png
+Type=Application

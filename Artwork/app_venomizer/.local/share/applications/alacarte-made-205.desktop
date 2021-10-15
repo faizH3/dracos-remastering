@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=mdk3
+Exec=sudo /usr/bin/mdk3
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/network-stress-test.png
+Type=Application

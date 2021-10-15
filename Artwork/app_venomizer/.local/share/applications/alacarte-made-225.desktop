@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=galetta
+Exec=sudo /usr/bin/galetta
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/forensic-dna.png
+Type=Application

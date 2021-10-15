@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=mfoc
+Exec=sudo /usr/bin/mfoc
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/wireless-lan.png
+Type=Application

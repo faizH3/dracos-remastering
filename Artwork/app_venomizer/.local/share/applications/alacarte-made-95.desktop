@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=asleap
+Exec=sudo /usr/bin/asleap
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/wireless-lan.png
+Type=Application

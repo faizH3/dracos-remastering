@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=ghost-phisher
+Exec=sudo /usr/bin/ghost-phisher
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/information-gathering-4.png
+Type=Application

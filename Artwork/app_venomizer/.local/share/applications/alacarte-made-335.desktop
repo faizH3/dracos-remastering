@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=cherrytree
+Exec=sudo /usr/bin/cherrytree
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/reporting-tool-icon.png
+Type=Application

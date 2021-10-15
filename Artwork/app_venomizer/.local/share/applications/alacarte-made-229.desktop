@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=pdf
+Exec=sudo /usr/bin/pdf-parser
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/forensic-dna.png
+Type=Application

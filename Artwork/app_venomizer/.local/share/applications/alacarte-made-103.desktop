@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=coWPAtty
+Exec=sudo /usr/bin/cowpatty
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/wireless-lan.png
+Type=Application

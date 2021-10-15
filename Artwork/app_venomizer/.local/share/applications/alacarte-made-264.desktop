@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=wireshark
+Exec=sudo /usr/bin/wireshark
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/sniffing-wiretap.png
+Type=Application

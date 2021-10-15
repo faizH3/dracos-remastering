@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=snmp-check
+Exec=sudo /usr/bin/snmp-check
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/information-gathering-4.png
+Type=Application
+Hidden=true

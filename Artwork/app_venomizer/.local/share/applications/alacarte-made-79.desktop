@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=sqlsus
+Exec=sudo /usr/bin/sqlsus
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/vulnerability-assessment.png
+Type=Application

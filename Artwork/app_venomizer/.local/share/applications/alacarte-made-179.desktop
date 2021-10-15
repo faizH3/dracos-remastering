@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=armitage
+Exec=sudo /usr/bin/armitage
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/exploit-tools.png
+Type=Application

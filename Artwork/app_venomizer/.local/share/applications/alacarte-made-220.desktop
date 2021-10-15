@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=dff
+Exec=sudo /usr/bin/dff
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/forensic-dna.png
+Type=Application

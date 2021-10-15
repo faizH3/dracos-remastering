@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=dns2tcp
+Exec=sudo /usr/bin/dns2tcp
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/maintaining-access-backdoor.png
+Type=Application

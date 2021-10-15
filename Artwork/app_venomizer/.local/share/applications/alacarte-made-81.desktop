@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=tnscmd10g
+Exec=sudo /usr/bin/tnscmd10g
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/vulnerability-assessment.png
+Type=Application

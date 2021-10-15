@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=unix
+Exec=sudo /usr/bin/unix
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/vulnerability-assessment.png
+Type=Application

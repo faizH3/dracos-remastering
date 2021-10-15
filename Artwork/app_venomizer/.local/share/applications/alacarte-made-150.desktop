@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=hurl
+Exec=sudo /usr/bin/hurl
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/webapp-analysis-4.png
+Type=Application

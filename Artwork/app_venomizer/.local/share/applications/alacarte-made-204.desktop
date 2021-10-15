@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=ipv6toolkit
+Exec=sudo /usr/bin/ipv6toolkit
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/network-stress-test.png
+Type=Application

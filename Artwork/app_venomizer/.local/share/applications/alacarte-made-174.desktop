@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=wfuzz
+Exec=sudo /usr/bin/wfuzz
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/webapp-analysis-4.png
+Type=Application

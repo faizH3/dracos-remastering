@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=pixiewps
+Exec=sudo /usr/bin/pixewps
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/wireless-lan.png
+Type=Application

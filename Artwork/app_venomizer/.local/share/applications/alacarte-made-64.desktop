@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=copy-router
+Exec=sudo /usr/bin/copy-router-config
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/vulnerability-assessment.png
+Type=Application

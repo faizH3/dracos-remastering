@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=sctpscan
+Exec=sudo /usr/bin/sctpscan
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/sniffing-wiretap.png
+Type=Application

@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=yara
+Exec=sudo /usr/bin/yara
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/reverse-engineering.png
+Type=Application

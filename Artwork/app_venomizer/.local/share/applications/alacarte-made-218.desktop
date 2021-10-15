@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=dc3dd
+Exec=sudo /usr/bin/dc3dd
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/forensic-dna.png
+Type=Application

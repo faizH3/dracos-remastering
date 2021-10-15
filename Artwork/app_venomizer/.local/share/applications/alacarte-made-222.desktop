@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=dumpzilla
+Exec=sudo /usr/bin/dumpzilla
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/forensic-dna.png
+Type=Application

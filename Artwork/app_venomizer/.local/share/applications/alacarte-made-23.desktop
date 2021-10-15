@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=dmitry
+Exec=sudo /usr/bin/dmitry
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/information-gathering-4.png
+Type=Application

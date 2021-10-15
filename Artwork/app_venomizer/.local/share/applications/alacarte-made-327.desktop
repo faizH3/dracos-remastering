@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=jad
+Exec=sudo /usr/bin/jad
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/reverse-engineering.png
+Type=Application

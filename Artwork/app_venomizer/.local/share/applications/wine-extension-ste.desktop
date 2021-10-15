@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Dreamweaver 8
+MimeType=application/x-wine-extension-ste;
+Exec=env WINEPREFIX="/home/faiz/.wine" wine start /ProgIDOpen Dreamweaver.Site.Definition %f
+NoDisplay=true
+StartupNotify=true
+Icon=6C6F_Dreamweaver.0

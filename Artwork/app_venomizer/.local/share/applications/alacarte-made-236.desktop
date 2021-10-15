@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=bettercap
+Exec=sudo /usr/bin/bettercap
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/sniffing-wiretap.png
+Type=Application

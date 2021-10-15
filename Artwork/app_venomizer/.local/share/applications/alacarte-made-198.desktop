@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=yersinia
+Exec=sudo /usr/bin/yersinia
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/exploit-tools.png
+Type=Application

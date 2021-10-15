@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=pdgmail
+Exec=sudo /usr/bin/pdgmail
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/forensic-dna.png
+Type=Application

@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=ridenum
+Exec=sudo /usr/bin/ridenum
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/maintaining-access-backdoor.png
+Type=Application

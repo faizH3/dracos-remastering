@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=nmap
+Exec=sudo /usr/bin/nmap
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/vulnerability-assessment.png
+Type=Application

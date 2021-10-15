@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Dradis
+Exec=sudo /usr/bin/dradis
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/reporting-tool-icon.png
+Type=Application

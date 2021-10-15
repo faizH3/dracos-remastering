@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=cisco-torch
+Exec=sudo /usr/bin/cisco-torch
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/vulnerability-assessment.png
+Type=Application

@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=sbd
+Exec=sudo /usr/bin/sbd
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/maintaining-access-backdoor.png
+Type=Application

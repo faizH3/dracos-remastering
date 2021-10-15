@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=arachni
+Exec=sudo /usr/bin/arachni
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/webapp-analysis-4.png
+Type=Application

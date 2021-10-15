@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=ohrwurm
+Exec=sudo /usr/bin/ohrwurm
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/sniffing-wiretap.png
+Type=Application

@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=thc-ipv6
+Exec=sudo /usr/bin/thc-ipv6
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/network-stress-test.png
+Type=Application

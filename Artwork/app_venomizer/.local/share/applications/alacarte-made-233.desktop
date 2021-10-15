@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=regripper
+Exec=sudo /usr/bin/regripper
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/forensic-dna.png
+Type=Application
