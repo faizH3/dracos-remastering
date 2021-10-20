@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=airbase-ng
+Exec=sudo /usr/bin/airbase-ng
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/wireless-icon.png
+Type=Application

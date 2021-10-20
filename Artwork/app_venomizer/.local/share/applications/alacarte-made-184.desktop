@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=cisco-ocs
+Exec=sudo /usr/bin/cisco-ocs
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/exploit-tools.png
+Type=Application

@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=jsql-injection
+Exec=sudo /usr/bin/jsql
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/webapp-analysis-4.png
+Type=Application

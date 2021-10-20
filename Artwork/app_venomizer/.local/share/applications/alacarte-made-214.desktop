@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=bulk-extractor
+Exec=sudo /usr/bin/bulk-extractor
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/forensic-dna.png
+Type=Application

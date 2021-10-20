@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=cuckoo
+Exec=sudo /usr/bin/cuckoo
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/forensic-dna.png
+Type=Application

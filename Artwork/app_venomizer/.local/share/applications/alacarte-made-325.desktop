@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=dex2jar
+Exec=sudo /usr/bin/dex2jar
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/reverse-engineering.png
+Type=Application

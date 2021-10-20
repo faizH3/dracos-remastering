@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=set
+Exec=sudo /usr/bin/set
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/exploit-tools.png
+Type=Application

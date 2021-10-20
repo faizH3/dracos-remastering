@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Magic-Tree
+Exec=sudo /usr/bin/magic-tree
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/reporting-tool-icon.png
+Type=Application

@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=dnstracer
+Exec=sudo /usr/bin/dnstracer
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/information-gathering-4.png
+Type=Application

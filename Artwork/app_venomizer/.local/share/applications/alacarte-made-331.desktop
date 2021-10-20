@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=smali
+Exec=sudo /usr/bin/smali
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/reverse-engineering.png
+Type=Application

@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=nishang
+Exec=sudo /usr/bin/nishang
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/maintaining-access-backdoor.png
+Type=Application

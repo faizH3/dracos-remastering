@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=pwnat
+Exec=sudo /usr/bin/pwnat
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/maintaining-access-backdoor.png
+Type=Application

@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=nmap
+Exec=sudo /usr/bin/nmap
+Comment=
+Terminal=false
+Icon=/usr/share/icons/menu/information-gathering-4.png
+Type=Application

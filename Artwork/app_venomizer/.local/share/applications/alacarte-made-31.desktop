@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=firewalk
+Exec=sudo /usr/bin/firewalk
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/information-gathering-4.png
+Type=Application

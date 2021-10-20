@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=ollydbg
+Exec=sudo /usr/bin/ollydbg
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/reverse-engineering.png
+Type=Application

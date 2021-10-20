@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=cisco-global-exploiter
+Exec=sudo /usr/bin/cisco-global-exploiter
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/exploit-tools.png
+Type=Application

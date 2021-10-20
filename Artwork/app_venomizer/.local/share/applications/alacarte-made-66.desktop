@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=dotdotpwn
+Exec=sudo /usr/bin/dotdotpwn
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/vulnerability-assessment.png
+Type=Application

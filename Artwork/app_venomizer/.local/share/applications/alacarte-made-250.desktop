@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=rtpbreak
+Exec=sudo /usr/bin/rtpbreak
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/sniffing-wiretap.png
+Type=Application

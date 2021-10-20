@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=freeradius-wpe
+Exec=sudo /usr/bin/freeradius-wpe
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/wireless-lan.png
+Type=Application

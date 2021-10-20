@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=cdpsnarf
+Exec=sudo /usr/bin/cdpsnarf
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/information-gathering-4.png
+Type=Application

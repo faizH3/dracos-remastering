@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=bed
+Exec=sudo /usr/bin/bed
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/vulnerability-assessment.png
+Type=Application

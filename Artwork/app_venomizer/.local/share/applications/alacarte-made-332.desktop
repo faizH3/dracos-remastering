@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=valgrind
+Exec=sudo /usr/bin/valgrind
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/reverse-engineering.png
+Type=Application

@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=siparmyknife
+Exec=sudo /usr/bin/siparmyknife
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/vulnerability-assessment.png
+Type=Application

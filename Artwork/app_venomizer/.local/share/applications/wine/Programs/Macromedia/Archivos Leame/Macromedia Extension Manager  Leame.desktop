@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Macromedia Extension Manager  Leame
+Exec=env WINEPREFIX="/home/faiz/.wine" wine C:\\\\users\\\\faiz\\\\AppData\\\\Roaming\\\\Microsoft\\\\Windows\\\\Start\\ Menu\\\\Programs\\\\Macromedia\\\\Archivos\\ Leame\\\\Macromedia\\ Extension\\ Manager\\ \\ Leame.lnk
+Type=Application
+StartupNotify=true
+Icon=2B3C_READMEICON.0
+StartupWMClass=readme.htm

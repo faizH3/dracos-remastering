@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=brutespray
+Exec=sudo /usr/bin/brutespray
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/password-attack.png
+Type=Application

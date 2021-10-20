@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=binwalk
+Exec=sudo /usr/bin/binwalk
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/forensic-dna.png
+Type=Application

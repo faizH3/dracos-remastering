@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=wifiphiser
+Exec=sudo /usr/bin/wifiphiser
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/wireless-lan.png
+Type=Application

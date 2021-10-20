@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=BeEF
+Exec=sudo /usr/bin/beef
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/exploit-tools.png
+Type=Application

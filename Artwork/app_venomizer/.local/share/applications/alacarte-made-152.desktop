@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=joomscan
+Exec=sudo /usr/bin/joomscan
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/webapp-analysis-4.png
+Type=Application

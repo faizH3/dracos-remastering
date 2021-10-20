@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=burp suite
+Exec=sudo /usr/bin/burpsuite
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/webapp-analysis-4.png
+Type=Application

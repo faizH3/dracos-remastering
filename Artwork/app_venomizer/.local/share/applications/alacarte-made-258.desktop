@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=sslsplit
+Exec=sudo /usr/bin/sslsplit
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/sniffing-wiretap.png
+Type=Application

@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=whatweb
+Exec=sudo /usr/bin/whatweb
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/information-gathering-4.png
+Type=Application

@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=fragrouter
+Exec=sudo /usr/bin/fragrouter
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/information-gathering-4.png
+Type=Application

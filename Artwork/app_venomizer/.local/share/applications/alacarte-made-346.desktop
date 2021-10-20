@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=arduino
+Exec=sudo /usr/bin/arduino
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/reporting-tool-icon.png
+Type=Application

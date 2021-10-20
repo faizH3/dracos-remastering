@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=crunch
+Exec=sudo /usr/bin/crunch
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/password-attack.png
+Type=Application

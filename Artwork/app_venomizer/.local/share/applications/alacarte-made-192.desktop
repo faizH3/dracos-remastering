@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=metasploit
+Exec=sudo /usr/bin/metasploit
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/exploit-tools.png
+Type=Application

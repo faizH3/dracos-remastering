@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=eapmd5pass
+Exec=sudo /usr/bin/eapmd5pass
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/wireless-lan.png
+Type=Application

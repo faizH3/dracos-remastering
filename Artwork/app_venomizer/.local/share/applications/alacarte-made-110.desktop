@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=giskismet
+Exec=sudo /usr/bin/giskismet
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/wireless-lan.png
+Type=Application

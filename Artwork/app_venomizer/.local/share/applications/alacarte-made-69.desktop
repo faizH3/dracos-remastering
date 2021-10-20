@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=lynis
+Exec=sudo /usr/bin/lynis
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/vulnerability-assessment.png
+Type=Application

@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=rcracki-mt
+Exec=sudo /usr/bin/rcracki-mt
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/password-attack.png
+Type=Application

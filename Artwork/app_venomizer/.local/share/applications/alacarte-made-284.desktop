@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=johnny
+Exec=sudo /usr/bin/johnny
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/password-attack.png
+Type=Application

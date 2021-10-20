@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=fixed
+Exec=sudo /usr/bin/fixed
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/sniffing-wiretap.png
+Type=Application

@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=cisco-auditing-tool
+Exec=sudo /usr/bin/cisco-auditing-tool
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/password-attack.png
+Type=Application

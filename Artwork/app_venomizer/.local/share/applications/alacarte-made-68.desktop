@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=jsql
+Exec=sudo /usr/bin/jsql
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/vulnerability-assessment.png
+Type=Application

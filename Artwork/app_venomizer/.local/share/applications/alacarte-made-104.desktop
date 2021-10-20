@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=crackle
+Exec=sudo /usr/bin/crackle
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/wireless-lan.png
+Type=Application

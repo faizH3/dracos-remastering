@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=sqlmap
+Exec=sudo /usr/bin/sqlmap
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/vulnerability-assessment.png
+Type=Application

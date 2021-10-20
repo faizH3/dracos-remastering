@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=polenum
+Exec=sudo /usr/bin/polenum
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/maintaining-access-backdoor.png
+Type=Application

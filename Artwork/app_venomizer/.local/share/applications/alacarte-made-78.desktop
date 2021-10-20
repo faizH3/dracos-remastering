@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=sqlninja
+Exec=sudo /usr/bin/sqlninja
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/vulnerability-assessment.png
+Type=Application

@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=bluesnarfer
+Exec=sudo /usr/bin/bluesnarfer
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/wireless-lan.png
+Type=Application

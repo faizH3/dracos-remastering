@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=oscanner
+Exec=sudo /usr/bin/oscanner
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/vulnerability-assessment.png
+Type=Application

@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=spooftooph
+Exec=sudo /usr/bin/spooftooph
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/wireless-lan.png
+Type=Application

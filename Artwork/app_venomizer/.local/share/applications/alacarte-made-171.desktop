@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=webshag
+Exec=sudo /usr/bin/webshag
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/webapp-analysis-4.png
+Type=Application

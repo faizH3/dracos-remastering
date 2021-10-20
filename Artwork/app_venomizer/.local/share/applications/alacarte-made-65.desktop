@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Doona
+Exec=sudo /usr/bin/doona
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/vulnerability-assessment.png
+Type=Application

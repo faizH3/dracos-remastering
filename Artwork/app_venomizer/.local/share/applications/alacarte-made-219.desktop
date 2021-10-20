@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=ddrescue
+Exec=sudo /usr/bin/ddrescue
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/forensic-dna.png
+Type=Application

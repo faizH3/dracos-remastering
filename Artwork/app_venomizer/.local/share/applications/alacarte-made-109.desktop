@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=ghost-phiser
+Exec=sudo /usr/bin/ghost-phiser
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/wireless-lan.png
+Type=Application

@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=commix
+Exec=sudo /usr/bin/commix
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/exploit-tools.png
+Type=Application

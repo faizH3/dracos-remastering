@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=nikto
+Exec=sudo /usr/bin/nikto
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/webapp-analysis-4.png
+Type=Application

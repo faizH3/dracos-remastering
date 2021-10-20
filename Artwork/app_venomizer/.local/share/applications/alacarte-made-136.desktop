@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=wpaclean
+Exec=sudo /usr/bin/wpaclean
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/wireless-lan.png
+Type=Application

@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=intersect
+Exec=sudo /usr/bin/intersect
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/maintaining-access-backdoor.png
+Type=Application

@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=chntpw
+Exec=sudo /usr/bin/chntpw
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/forensic-dna.png
+Type=Application

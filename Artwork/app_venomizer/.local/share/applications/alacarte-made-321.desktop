@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=webshells
+Exec=sudo /usr/bin/webshells
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/maintaining-access-backdoor.png
+Type=Application

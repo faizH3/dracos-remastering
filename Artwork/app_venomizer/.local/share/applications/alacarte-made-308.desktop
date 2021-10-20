@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=cymothoa
+Exec=sudo /usr/bin/cymothoa
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/maintaining-access-backdoor.png
+Type=Application

@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=sslstrip
+Exec=sudo /usr/bin/sslstrip
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/sniffing-wiretap.png
+Type=Application

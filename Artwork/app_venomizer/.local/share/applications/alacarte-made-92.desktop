@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=airolib-ng
+Exec=sudo /usr/bin/airolib-ng
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/wireless-lan.png
+Type=Application

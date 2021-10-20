@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=peepdf
+Exec=sudo /usr/bin/peepdf
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/forensic-dna.png
+Type=Application

@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=besside-ng
+Exec=sudo /usr/bin/besside-ng
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/wireless-lan.png
+Type=Application

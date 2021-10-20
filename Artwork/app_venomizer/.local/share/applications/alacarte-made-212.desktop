@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=thc-ssl-dos
+Exec=sudo /usr/bin/thc-ssl-dos
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/network-stress-test.png
+Type=Application

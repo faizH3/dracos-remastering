@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Venomizer
+Exec=/usr/bin/vnm
+Comment=
+Terminal=true
+Icon=/usr/share/icons/logo2.png
+Type=Application
+Hidden=true

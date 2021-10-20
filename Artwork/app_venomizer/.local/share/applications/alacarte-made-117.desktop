@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=kismet
+Exec=sudo /usr/bin/kismet
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/wireless-lan.png
+Type=Application

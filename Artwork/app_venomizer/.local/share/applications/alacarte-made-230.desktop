@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=pdfid
+Exec=sudo /usr/bin/pdfid
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/forensic-dna.png
+Type=Application

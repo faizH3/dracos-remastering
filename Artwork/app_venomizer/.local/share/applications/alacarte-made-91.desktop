@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=airodump-ng-oui-update
+Exec=sudo /usr/bin/airodump-ng-oui-update
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/wireless-lan.png
+Type=Application

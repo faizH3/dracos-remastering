@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=ua-tester
+Exec=sudo /usr/bin/ua-tester
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/webapp-analysis-4.png
+Type=Application

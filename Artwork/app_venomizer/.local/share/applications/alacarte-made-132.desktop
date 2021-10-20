@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=wesside-ng
+Exec=sudo /usr/bin/wesside-ng
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/wireless-lan.png
+Type=Application

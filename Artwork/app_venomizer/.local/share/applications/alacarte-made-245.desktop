@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=isr-evilgrade
+Exec=sudo /usr/bin/isr-evilgrade
+Comment=
+Terminal=true
+Icon=/usr/share/icons/menu/sniffing-wiretap.png
+Type=Application
