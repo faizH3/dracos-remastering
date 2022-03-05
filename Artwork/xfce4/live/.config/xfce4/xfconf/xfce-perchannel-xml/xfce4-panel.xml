@@ -8,7 +8,7 @@
       <property name="position" type="string" value="p=6;x=0;y=0"/>
       <property name="length" type="uint" value="100"/>
       <property name="position-locked" type="bool" value="true"/>
-      <property name="size" type="uint" value="30"/>
+      <property name="size" type="uint" value="26"/>
       <property name="plugin-ids" type="array">
         <value type="int" value="1"/>
         <value type="int" value="3"/>
@@ -24,7 +24,7 @@
   <property name="plugins" type="empty">
     <property name="plugin-1" type="string" value="applicationsmenu">
       <property name="show-button-title" type="bool" value="true"/>
-      <property name="button-icon" type="string" value="logo2"/>
+      <property name="button-icon" type="string" value="/usr/share/icons/dracos/dracos-logo.png"/>
       <property name="button-title" type="string" value="DRACOS MENU"/>
       <property name="show-generic-names" type="bool" value="true"/>
     </property>

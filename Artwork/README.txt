@@ -2,7 +2,7 @@
 ############################################################################
 INTRODUCTION !!
 
-Description	 : DracOS Remastering based on Debian GNU/Linux
+Description	 : DracOS Remastered based on Debian GNU/Linux
 
 
 Developers
@@ -10,7 +10,7 @@ Leader 		 : Faiz Hidayat - github : https://github.com/faizH3
 
 Dev core 	 : Eko Saputra - github :https://github.com/ekovegeance
 
-Version 	 : DracOS 3.1.0 (Remastering) 
+Version 	 : DracOS 3.1 (KUNTILANAK WITH REMASTERED) 
 
 ###########################################################################
 Website : http://dracos-linux.org  | Github : https//github.com/dracos-linux
@@ -22,7 +22,7 @@ Website : http://dracos-linux.org  | Github : https//github.com/dracos-linux
 
 Dracos Linux Remaster ( https://github.com/dracos-linux ) is the Linux operating system from Indonesian , open source is built based on Debian live project under the protection of the GNU General Public License v3.0. This operating system is one variant of Linux distributions, which is used to perform security testing (penetration testing). 
 Dracos linux in Arm by hundreds hydraulic pentest, forensics and reverse engineering. Use a GUI-based tools-tools the software using the CLI (command line interface) and GUI (graphical user interface) to perform its operations.
-Now Dracos currently already up to version 3.1.0 with the code name "Remaster". 
+Now Dracos currently already up to version 3.1 with the code name "KUNTILANAK WITH REMASTERED". 
 
 # Screenshot
 <img src="https://github.com/ekovegeance/dracos-remastering/blob/main/Artwork/problem/where_problem/2%20get%20icon%20red.png?raw=true" width="120%"></img> 

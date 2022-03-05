@@ -53,7 +53,6 @@
 ; (gtk_accel_path "<Actions>/ThunarStandardView/copy" "<Primary>c")
 ; (gtk_accel_path "<Actions>/ThunarWindow/open-trash" "")
 ; (gtk_accel_path "<Actions>/ThunarActions/uca-action-1630656528368106-1" "")
-; (gtk_accel_path "<Actions>/ThunarBookmarks/4afd0df25ab96a93195b22162bf392ba" "")
 ; (gtk_accel_path "<Actions>/ThunarWindow/open-desktop" "")
 ; (gtk_accel_path "<Actions>/ThunarStandardView/paste-into-folder" "")
 ; (gtk_accel_path "<Actions>/ThunarWindow/open-location" "<Primary>l")
